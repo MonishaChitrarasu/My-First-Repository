@@ -1,2 +1,2 @@
 # My-First-Repository
-Data Analysis
+Exploratory Data Analysis
